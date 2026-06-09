@@ -34,3 +34,11 @@
 	path = client/art/ui/Packages/com.spacetime.effect
 	url = git@github.com:xieliujian/com.spacetime.effect.git
 	branch = main
+[submodule "tools/spacetime_table"]
+	path = tools/spacetime_table
+	url = git@github.com:xieliujian/spacetime_table.git
+	branch = main
+[submodule "tools/spacetime_localpatchserver"]
+	path = tools/spacetime_localpatchserver
+	url = git@github.com:xieliujian/spacetime_localpatchserver.git
+	branch = main

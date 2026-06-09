@@ -28,6 +28,9 @@ call :add_submodule git@github.com:xieliujian/com.spacetime.core.git client/art/
 call :add_submodule git@github.com:xieliujian/com.spacetime.tool.git client/art/ui/Packages/com.spacetime.tool
 call :add_submodule git@github.com:xieliujian/com.spacetime.effect.git client/art/ui/Packages/com.spacetime.effect
 
+call :add_submodule git@github.com:xieliujian/spacetime_table.git tools/spacetime_table
+call :add_submodule git@github.com:xieliujian/spacetime_localpatchserver.git tools/spacetime_localpatchserver
+
 echo Done! All submodules added or already exist.
 if not defined NO_PAUSE pause
 exit /b 0
