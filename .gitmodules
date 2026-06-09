@@ -1,0 +1,36 @@
+[submodule "client/project/Packages/com.spacetime.core"]
+	path = client/project/Packages/com.spacetime.core
+	url = git@github.com:xieliujian/com.spacetime.core.git
+	branch = main
+[submodule "client/project/Packages/com.spacetime.tool"]
+	path = client/project/Packages/com.spacetime.tool
+	url = git@github.com:xieliujian/com.spacetime.tool.git
+	branch = main
+[submodule "client/project/Packages/com.spacetime.effect"]
+	path = client/project/Packages/com.spacetime.effect
+	url = git@github.com:xieliujian/com.spacetime.effect.git
+	branch = main
+[submodule "client/art/scene/Packages/com.spacetime.core"]
+	path = client/art/scene/Packages/com.spacetime.core
+	url = git@github.com:xieliujian/com.spacetime.core.git
+	branch = main
+[submodule "client/art/scene/Packages/com.spacetime.tool"]
+	path = client/art/scene/Packages/com.spacetime.tool
+	url = git@github.com:xieliujian/com.spacetime.tool.git
+	branch = main
+[submodule "client/art/scene/Packages/com.spacetime.effect"]
+	path = client/art/scene/Packages/com.spacetime.effect
+	url = git@github.com:xieliujian/com.spacetime.effect.git
+	branch = main
+[submodule "client/art/ui/Packages/com.spacetime.core"]
+	path = client/art/ui/Packages/com.spacetime.core
+	url = git@github.com:xieliujian/com.spacetime.core.git
+	branch = main
+[submodule "client/art/ui/Packages/com.spacetime.tool"]
+	path = client/art/ui/Packages/com.spacetime.tool
+	url = git@github.com:xieliujian/com.spacetime.tool.git
+	branch = main
+[submodule "client/art/ui/Packages/com.spacetime.effect"]
+	path = client/art/ui/Packages/com.spacetime.effect
+	url = git@github.com:xieliujian/com.spacetime.effect.git
+	branch = main
